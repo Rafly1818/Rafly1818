@@ -7,8 +7,8 @@
 
 ---
 
-<h3 align="left">🛠️ Skills:</h3>
-<p align="left">
+<h3 align="left">Skills</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" alt="HTML5" width="40" height="40"/> 
   </a>
@@ -23,8 +23,8 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<h3 align="left">Socials</h3>
+<p align="center">
   <a href="https://instagram.com/flyyr_" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="40" height="40"/>
   </a>
@@ -35,7 +35,7 @@
 
 ---
 
-<h3 align="center">📊 My GitHub Stats</h3>
+<h3 align="left">My GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafly1818&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafly1818&layout=compact&theme=radical" alt="Top Languages">
