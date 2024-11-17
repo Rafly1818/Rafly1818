@@ -2,7 +2,6 @@
   <img src="main.gif" alt="My GIF" width="600">
 </p>
 
-
 ---
 
 <p align="center">
@@ -10,7 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=7D7C7C&center=true&vCenter=true&random=false&width=900&height=40&lines=Rafly+Akbar+Ravsanjani;Student+Developer+at+Esa+Unggul+University" alt="Typing SVG" />
   </a>
 </p>
-
 
 ---
 
@@ -28,9 +26,6 @@
   /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
-
-
-
 
 ---
 
@@ -52,8 +47,6 @@
   </a>
 </p>
 
-
-
 ---
 
 <h3 align="left">My GitHub Stats</h3>
@@ -62,6 +55,5 @@
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafly1818&layout=compact&hide_border=true&theme=nord&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafly1818&theme=nord&hide_border=true&background=FFFFFF00">
 </p>
-
 
 ---
