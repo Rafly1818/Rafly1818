@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Rafly1818" width="200" alt="Avatar">
+  <img src="main.gif" alt="My GIF" width="600">
 </p>
+
 
 ---
 
