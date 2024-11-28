@@ -55,12 +55,12 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> 
     </picture> 
   </a>
-  <a href="mailto:raflyravsanjani@gmail.com" target="_blank" rel="noreferrer">
-    </picture>
+  <a href="mailto:raflyravsanjani@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" />
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="36" height="36" alt="Gmail" />
-    </picture>  
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="36" height="36" alt="Gmail" style="filter: grayscale(100%);" />
+    </picture>
   </a>
   <a href="http://www.instagram.com/flyyr_" target="_blank" rel="noreferrer"> 
     <picture> 
