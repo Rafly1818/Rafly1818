@@ -57,7 +57,7 @@
   </a>
   <a href="mailto:raflyravsanjani@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; display: inline-block; text-align: center;">
     <picture>
-      <img src="Assets/gmail.png" width="36" height="36" alt="Gmail" style="padding: 2px; background-color: white; border-radius: 50%; display: block; margin: 0 auto;" />
+      <img src="Assets/gmail.png" width="36" height="36" alt="Gmail" />
     </picture>
   </a>
   <a href="http://www.instagram.com/flyyr_" target="_blank" rel="noreferrer">
